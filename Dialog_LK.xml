@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+<channel id="Channel One">
+    <display-name lang="si">Channel One</display-name>
+    <icon src="https://api2.viu.lk/api/client/v1/global/images/25660?accessKey=WkVjNWNscFhORDBLCg==" />
+  </channel>
+<programme start="20250220070000 +0530" stop="20250220080000 +0530" channel="Channel One">
+    <title lang="si">Slow Flow</title>
+    <desc lang="si">Slow Flow</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/107041?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220080000 +0530" stop="20250220083000 +0530" channel="Channel One">
+    <title lang="si">Hitha Langa Doc 990</title>
+    <desc lang="si">Hitha Langa Doc 990</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220083000 +0530" stop="20250220090000 +0530" channel="Channel One">
+    <title lang="si">Ginimelaya</title>
+    <desc lang="si">Ginimelaya</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220090000 +0530" stop="20250220100000 +0530" channel="Channel One">
+    <title lang="si">World Wide</title>
+    <desc lang="si">World Wide</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/73956?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220100000 +0530" stop="20250220110000 +0530" channel="Channel One">
+    <title lang="si">Sindu Choice</title>
+    <desc lang="si">Sindu Choice</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220110000 +0530" stop="20250220120000 +0530" channel="Channel One">
+    <title lang="si">Ru Naari</title>
+    <desc lang="si">Ru Naari</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220120000 +0530" stop="20250220150000 +0530" channel="Channel One">
+    <title lang="si">Kanakam Kaamini Kalaham</title>
+    <desc lang="si">Kanakam Kaamini Kalaham</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/132725?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/132725?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220150000 +0530" stop="20250220153000 +0530" channel="Channel One">
+    <title lang="si">Susumaka Ima</title>
+    <desc lang="si">Susumaka Ima</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/104774?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220153000 +0530" stop="20250220160000 +0530" channel="Channel One">
+    <title lang="si">Idora Wassa</title>
+    <desc lang="si">Idora Wassa</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/105119?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220160000 +0530" stop="20250220163000 +0530" channel="Channel One">
+    <title lang="si">Ginimelaya</title>
+    <desc lang="si">Ginimelaya</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/79243?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220163000 +0530" stop="20250220170000 +0530" channel="Channel One">
+    <title lang="si">Hitha Langa Doc 990</title>
+    <desc lang="si">Hitha Langa Doc 990</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/75673?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220170000 +0530" stop="20250220180000 +0530" channel="Channel One">
+    <title lang="si">Sindu Choice</title>
+    <desc lang="si">Sindu Choice</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34135?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220180000 +0530" stop="20250220190000 +0530" channel="Channel One">
+    <title lang="si">Ru Naari</title>
+    <desc lang="si">Ru Naari</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/34130?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<programme start="20250220190000 +0530" stop="20250220193000 +0530" channel="Channel One">
+    <title lang="si">Kandula</title>
+    <desc lang="si">Kandula</desc>
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+    <icon src="https://api3.viu.lk/api/client/v1/global/images/35375?accessKey=WkVjNWNscFhORDBLCg==" />
+  </programme>
+<channel id="Rupavahini">
+    <display-name lang="si">Rupavahini</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/SLRC_LOGO.jpg/200px-SLRC_LOGO.jpg" /></channel>
+<channel id="ITN">
+    <display-name lang="si">ITN</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ITN_Sri_Lanka_logo.png/200px-ITN_Sri_Lanka_logo.png" /></channel>
+<channel id="Shakthi TV">
+    <display-name lang="si">Shakthi TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Shakthi_TV_logo.png/200px-Shakthi_TV_logo.png" /></channel>
+<channel id="Supreme TV">
+    <display-name lang="si">Supreme TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Supreme_TV_Sri_Lanka_logo.png/200px-Supreme_TV_Sri_Lanka_logo.png" /></channel>
+</tv>
